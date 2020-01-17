@@ -1,0 +1,13 @@
+# Evaluation metrics used for training and testing the Neural Nets
+
+1. Train reconstruction accuracy.  
+
+We pass back the train input string to the the network and check whether the network is able to reconstruct.
+Train reconstruction accuracy is percentage of words the decrypter is able to decrypt given the encrypted input.
+
+2. Test reconstruction accuracy.
+
+We create a new random string and pass that to the encrypter network.
+Using the encrypted network we get the encrypted representation of the words.
+
+

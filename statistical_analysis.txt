@@ -1,0 +1,3 @@
+32 - bit
+Time for training encrypter = 46.845724 sec
+Time for trianing decrypter = 54.184645 sec
