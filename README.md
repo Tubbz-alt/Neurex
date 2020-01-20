@@ -1,5 +1,5 @@
-[![HitCount](http://hits.dwyl.io/abhishekkushwaha4u/Nuerex.svg)](http://hits.dwyl.io/abhishekkushwaha4u/Nuerex)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhishekkushwaha4u/Nuerex/master)
+[![HitCount](http://hits.dwyl.io/abhishekkushwaha4u/Nuerex.svg)](http://hits.dwyl.io/oke-aditya/Neurex)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oke-aditya/Neurex/master)
 
 # Neurex
 
@@ -18,6 +18,12 @@
 - Network V1.2.1 works for 32 bits all characters
 - Network V1.2.3 works for 56 bits all characters
 
+
+## Major Update
+
+- Parallel multiple neural network encryption algorithm aded.
+- Not chained to processors / GPU yet.
+
 #
 </br>
 
@@ -26,4 +32,4 @@
 *Security Guaranteed*
 
 Binder link 
-https://mybinder.org/v2/gh/abhishekkushwaha4u/Nuerex/master
+https://mybinder.org/v2/gh/oke-aditya/Neurex/master
