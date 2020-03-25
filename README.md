@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.io/oke-aditya/Neurex.svg)](http://hits.dwyl.io/oke-aditya/Neurex)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oke-aditya/Neurex/master)
 
 # Neurex
