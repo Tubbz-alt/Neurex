@@ -1,15 +1,17 @@
-[![HitCount](http://hits.dwyl.io/abhishekkushwaha4u/Nuerex.svg)](http://hits.dwyl.io/oke-aditya/Neurex)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oke-aditya/Neurex/master)
 
 # Neurex
 
-* **Your thoughts maybe bad about our idea but our name isn't.**
-* Safe protection against **all** types of data penetrations.
-* We mean it, Neurex = NEURal Encrpytion X   
-- On the way to enhance security...............................
-</br>
+# How it works
 
-#
+- Uses fast auto-encoders that can encrypt the text.
+- We create multiple hashmaps of varying bit length using HashMapGenerator.py.
+- Hashmap creation is random. Could be tied to some markov chain as well.
+- We learn that hashmap through our autoencoders.
+- These autoencoders work simultaneously to provide an encryption. (encrpyter_multiple_loading_running.py file)
+- Note multiple autoencders can be generated from hashmaps with different bit length settings. All can be combined.
+- Takes < 2mins to create a new network.
+- Little slower than normal encryption algos.
 
 ### Version Supports
 - Network V1.01 works for 6 bits for lowercase
@@ -24,12 +26,6 @@
 - Parallel multiple neural network encryption algorithm aded.
 - Not chained to processors / GPU yet.
 
-#
-</br>
 
-## 100 % Encryption.... 100 % Decryption
 
-*Security Guaranteed*
 
-Binder link 
-https://mybinder.org/v2/gh/oke-aditya/Neurex/master
