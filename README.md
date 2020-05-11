@@ -20,12 +20,10 @@
 - Network V1.2.1 works for 32 bits all characters
 - Network V1.2.3 works for 56 bits all characters
 
+## Cite Us
 
-## Major Update
-
-- Parallel multiple neural network encryption algorithm aded.
-- Not chained to processors / GPU yet.
-
-
-
+We will provide BibTeX entry once it is published.
+For now you can cite our repo. i.e. https://github.com/oke-aditya/Neurex
+Raise an Issue if you have doubts / want to know more about our work.
+Raise a PR to improve it.
 
